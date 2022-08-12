@@ -7,6 +7,7 @@ body{
 header{
   background: black;
   color: white;
+  padding: 15px 15px 0 15px;
 }
 
 header h1{
@@ -15,7 +16,6 @@ header h1{
 }
 
 header ul{
-  margin-left: 1080px;
   padding: 0 0 0 15px;
   display: inline;
 }
